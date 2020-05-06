@@ -37,7 +37,7 @@ about:
   home: https://CRAN.R-project.org/package=LSD
   license: Unlimited
   summary: Create lots of colorful plots in a plethora of variations. Try the LSD demotour().
-  license_family: MIT
+  license_family: OTHER
 
 extra:
   recipe-maintainers:
