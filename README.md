@@ -3,7 +3,7 @@ About r-lsd
 
 Home: https://CRAN.R-project.org/package=LSD
 
-Package license: Unlimited
+Package license: GPL-2.0-only OR GPL-3.0-only
 
 Feedstock license: BSD 3-Clause
 
