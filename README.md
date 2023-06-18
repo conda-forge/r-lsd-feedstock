@@ -1,11 +1,11 @@
-About r-lsd
-===========
+About r-lsd-feedstock
+=====================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lsd-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=LSD
 
 Package license: GPL-2.0-only OR GPL-3.0-only
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-lsd-feedstock/blob/main/LICENSE.txt)
 
 Summary: Create lots of colorful plots in a plethora of variations. Try the LSD demotour().
 
